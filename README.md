@@ -26,6 +26,7 @@ pip install numpy matplotlib
 ```bash
 python raumzeit_pythagoras.py
 ```
+![image](https://github.com/user-attachments/assets/e8f06373-5209-4cfa-9283-97ad3f0ef430)
 
 ## Funktionen
 
